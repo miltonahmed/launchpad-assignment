@@ -42,3 +42,66 @@ a {
 body {
   background: #f5f8ff;
 }
+
+/* Common button  */
+.primary_btn {
+  padding: 12px 36px;
+  border-radius: 10px;
+  background: #4e47ff;
+  border-radius: 10px;
+  border: none;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  color: #ffffff;
+}
+/* Common section title  */
+.section_title {
+  font-family: 'Raleway', sans-serif;
+  color: #252432;
+  font-family: Raleway;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+
+
+/* ================ Header Section Style Start Now ===============  */
+
+.nav_wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav_logo a {
+  font-family: 'Inter', sans-serif;
+  font-size: 34px;
+  font-weight: 900;
+  line-height: 150%;
+  color: #4e47ff;
+  text-transform: uppercase;
+}
+
+
+/* ================ Header Section Style End    Now ===============  */
+/* ================ Header Section Style Start Now ===============  */
+/* ================ Header Section Style End    Now ===============  */
+/* ================ Header Section Style Start Now ===============  */
+/* ================ Header Section Style End    Now ===============  */
+/* ================ Header Section Style Start Now ===============  */
+/* ================ Header Section Style End    Now ===============  */
+/* ================ Header Section Style Start Now ===============  */
+/* ================ Header Section Style End    Now ===============  */
+/* ================ Header Section Style Start Now ===============  */
+/* ================ Header Section Style End    Now ===============  */
+/* ================ Header Section Style Start Now ===============  */
+/* ================ Header Section Style End    Now ===============  */
+/* ================ Header Section Style Start Now ===============  */
+/* ================ Header Section Style End    Now ===============  */
+/* ================ Header Section Style Start Now ===============  */
+/* ================ Header Section Style End    Now ===============  */
+/* ================ Header Section Style Start Now ===============  */
+/* ================ Header Section Style End    Now ===============  */
