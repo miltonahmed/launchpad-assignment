@@ -70,6 +70,14 @@ body {
 
 
 /* ================ Header Section Style Start Now ===============  */
+.header {
+  background-image: url('/images/hero-bg.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 50px 0;
+  
+}
 
 .nav_wrapper {
   display: flex;
@@ -85,6 +93,23 @@ body {
   text-transform: uppercase;
 }
 
+/* === Hero Section === */
+.hero_section {
+  text-align: center;
+  max-width: 905px;
+  margin: 0 auto;
+  padding-top: 158px;
+  padding-bottom: 152px;
+}
+.hero_section h2 {
+  font-family: 'Raleway', sans-serif;
+  color: #252432;
+  font-size: 65px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 37px;
+}
 
 /* ================ Header Section Style End    Now ===============  */
 /* ================ Header Section Style Start Now ===============  */
