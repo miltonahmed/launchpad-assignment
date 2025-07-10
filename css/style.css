@@ -112,8 +112,45 @@ body {
 }
 
 /* ================ Header Section Style End    Now ===============  */
-/* ================ Header Section Style Start Now ===============  */
-/* ================ Header Section Style End    Now ===============  */
+/* ================ Action Section Style Start Now ===============  */
+.action {
+  background: #f5f8ff;
+  padding: 116px 0;
+}
+
+.action_wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.action_content_left .action_description {
+  color: rgba(37, 36, 50, 0.5);
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  max-width: 517px;
+  margin-top: 23px;
+  margin-bottom: 23px;
+}
+.action_image_right {
+  max-width:403px;
+  height: 328px;
+}
+.action_image_right img{
+  width: 100%;
+  border-radius: 48px;
+  -webkit-border-radius: 48px;
+  -moz-border-radius: 48px;
+  -ms-border-radius: 48px;
+  -o-border-radius: 48px;
+}
+
+
+
+/* ================ Action Section Style End    Now ===============  */
 /* ================ Header Section Style Start Now ===============  */
 /* ================ Header Section Style End    Now ===============  */
 /* ================ Header Section Style Start Now ===============  */
